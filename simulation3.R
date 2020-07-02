@@ -18,12 +18,4 @@ y = c(y1,y2,y3)
 
 simulated_df = data.frame(x,y)
 
-kmeans_m = kmeans(simulated_df, centers=3, iter.max=1000)
-
-
-plot(x=x,y=y)
-plot(x=x,y=y, col=kmeans_m$cluster)
-
-
-
-iris
+plot(x,y)
