@@ -43,4 +43,4 @@ simulation_data <- rbind(banana.data1,banana.data2,banana.data3,banana.data4,ban
                      banana.data7,banana.data8,banana.data9,banana.data_1,banana.data_2,banana.data_3,
                      banana.data_4,banana.data_5,banana.data_6,banana.data_7,banana.data_8,banana.data_9)
 
-plot(simulation)
+plot(simulation_data)
