@@ -29,6 +29,8 @@ SwissRoll <- function(N=2000, Height=30, Plot=FALSE){
   
 }
 
+simulation_data = SwissRoll()
 
-
-SwissRoll()
+# 3D Plot
+library(rgl)
+plot3d(simulation_data)
