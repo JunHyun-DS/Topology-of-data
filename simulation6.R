@@ -9,7 +9,6 @@
 ## output:	
 ##	a plot of the Swiss Roll and all N samples as a Nx3-matrix
 
-
 SwissRoll <- function(N=2000, Height=30, Plot=FALSE){
   
   ## build manifold
