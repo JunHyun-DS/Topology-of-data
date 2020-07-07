@@ -14,3 +14,5 @@ simulation5.R: 원안에 원 데이터(과녁이랑 유사함)(2차원)
 simulation6.R: Swiss Roll data(3차원)
 
 simulation7.R: 3D S Curve data(3차원)
+
+simulation8.R: banana data(2차원)
