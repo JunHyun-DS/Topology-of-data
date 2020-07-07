@@ -10,3 +10,7 @@ simulation3.R: 분산이 2개가 같고 한개는 다른 데이터
 simulation4.R: 유사한 바나나 형태의 데이터(지역적 패턴이 있는 데이터) 
 
 simulation5.R: 원안에 원 데이터(과녁이랑 유사함)
+
+simulation6.R: Swiss Roll data
+
+simulation7.R: 3D S Curve data(알파벳 S)
