@@ -39,8 +39,8 @@ banana.data_7 <- cov_simulation(100,1,0,0,1,-1.9,-2.7,0.33)$cov.xy
 banana.data_8 <- cov_simulation(100,1,0,0,1,-2.6,-2,0.33)$cov.xy
 banana.data_9 <- cov_simulation(100,1,0,0,1,-2.9,-1.3,0.33)$cov.xy
 
-banana.data <- rbind(banana.data1,banana.data2,banana.data3,banana.data4,banana.data5,banana.data6,
+simulation_data <- rbind(banana.data1,banana.data2,banana.data3,banana.data4,banana.data5,banana.data6,
                      banana.data7,banana.data8,banana.data9,banana.data_1,banana.data_2,banana.data_3,
                      banana.data_4,banana.data_5,banana.data_6,banana.data_7,banana.data_8,banana.data_9)
 
-plot(banana.data)
+plot(simulation)
